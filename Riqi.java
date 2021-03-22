@@ -60,7 +60,7 @@ class Riqi {
 		System.out.println("这是" + year + "年的第：" + num + "天！");
 	
 		
-		//远程仓库版本
+		//远程仓库版本 zhangsan
 		
 	}
 }
