@@ -61,6 +61,7 @@ class Riqi {
 	
 		
 		//远程仓库版本 lisi
+		//远程仓库版本 zhangsan
 		
 	}
 }
