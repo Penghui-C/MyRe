@@ -61,6 +61,7 @@ class Riqi {
 	
 		
 		//xiugai
+		//hahaha
 		
 	}
 }
